@@ -1,6 +1,6 @@
 # Network-modelling
 ### 1.HMI
-DMI_terminal: the MicrobioLink pipeline for Host-Microbe interaction prediction
+DMI_terminal: the MicrobioLink pipeline for Host-Microbe interaction prediction/n
 IUPred: the IUPred tool to only retains the motifs within intrinsically disordered regions
 ### 2. bacteria_domain_structure
 download_bacterial_proteins: download the bacteria proteins from Uniprot Proteome database
