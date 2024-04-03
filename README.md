@@ -14,11 +14,11 @@ The TieDIE pipeline
 
 TieDie_input_process: data processing to prepare the input for TieDIE
 
-TieDie: TieDIE analysis
+TieDie: TieDIE main algorithm
 
 TieDie_output_process: further processing of the tieDIE output, connecting the intermediate signalling network with upstream bacteria proteins and downstream DEGs.
 ### 6. CARNIVAL
-carnival.R: CARNIVAL analysis
+carnival.R: CARNIVAL algorithm
 
 carnival_output_processing: further processing of the CARNIVAL output, connecting the intermediate signalling network with upstream bacteria proteins and downstream DEGs.
 ### 7. PCSF
