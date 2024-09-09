@@ -1,4 +1,4 @@
-# Network-modelling
+# Network-modelling and Structural comparison
 ### 1.HMI
 DMI_terminal: the MicrobioLink pipeline for Host-Microbe interaction prediction
 
@@ -23,3 +23,6 @@ carnival.R: CARNIVAL algorithm
 carnival_output_processing: further processing of the CARNIVAL output, connecting the intermediate signalling network with upstream bacteria proteins and downstream DEGs.
 ### 7. PCSF
 PCSF_CRC.R: PCSF analysis and the enrichment analysis for the PCSF output
+
+### 8. CausalR
+
